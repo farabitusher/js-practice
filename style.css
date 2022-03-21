@@ -1,0 +1,22 @@
+*{
+ box-sizing: border-box;
+}
+.container{
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(190, 97, 10);
+}.btn{
+    padding: 15px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+
+}
+#value{
+    font-size: 30px;
+    text-align: center;
+}
